@@ -13,6 +13,9 @@ Design a suitable data model to view and analyze Seven Sages Brewing data using 
 
 # Output:
 ![Dashboard Overview](Gross%20Profit%20and%20Unit%20Sales%20Results.png)
+![Dashboard Overview](Sales%20and%20GPM%20Results.png)
+
+
 
   
  # Files:
