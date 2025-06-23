@@ -12,8 +12,13 @@ integrating different data sources and analyzing key metrics for sales, products
 - Use DAX to calculate performance indicators (KPIs)
 - Create interactive visualizations
 
+  # Output:
+  ![Dashboard Overview](Home.png)
+  ![Dashboard Overview](Pet.png)
+  ![Dashboard Overview](Family.png)
+
  # File
- Power BI `Waggle-Report.pbix`
+ Power BI `student-starter-file.pbix`
 
 
 
