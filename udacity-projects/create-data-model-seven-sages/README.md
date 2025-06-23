@@ -12,9 +12,8 @@ Design a suitable data model to view and analyze Seven Sages Brewing data using 
 - DAX application for calculating indicators
 
 # Output:
-![Dashboard Overview](udacity-projects/create-data-model-seven-sages/Gross%Profit%and%Unit%Sales%Results.png)
-![Dashboard Overview](Gross%Profit%and%Unit%Sales%Results.png)
+![Dashboard Overview](Gross%20Profit%20and%20Unit%20Sales%20Results.png)
 
   
  # Files:
-  Power BI: `Create-a-Data-Model-Seven-Sages.pbix`
+  Power BI: `Nouf Alajmi-SSBC.pbix`
