@@ -12,8 +12,8 @@ Design a suitable data model to view and analyze Seven Sages Brewing data using 
 - DAX application for calculating indicators
 
 # Output:
-![Dashboard Overview](Sale sand GPM Results.png)
-![Dashboard Overview](udacity-projects%create-data-model-seven-sages%Gross Profit and Unit Sales Results.png)
+![Dashboard Overview](Sales%and%GPM%Results.png)
+![Dashboard Overview](Gross%Profit%and%Unit%Sales%Results.png)
 
   
  # Files:
