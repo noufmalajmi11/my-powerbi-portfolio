@@ -4,7 +4,7 @@ First project  of  Udacity Nano Program .
 # Project Goal:
 Design a suitable data model to view and analyze Seven Sages Brewing data using Power BI, applying the principles of effective modeling and performance improvement.
 
-# Tools ans Skills:
+# Tools and Skills:
 - Design a Data Model
 - Establishing relationships between tables
 - Simplify the Star Schema
