@@ -10,6 +10,11 @@ Design a suitable data model to view and analyze Seven Sages Brewing data using 
 - Simplify the Star Schema
 - Use of Power Query
 - DAX application for calculating indicators
+
+# Output:
+![Dashboard Overview](SalesandGPMResults.png)
+![Dashboard Overview](GrossProfitandUnitSalesResult.png)
+
   
  # Files:
   Power BI: `Create-a-Data-Model-Seven-Sages.pbix`
