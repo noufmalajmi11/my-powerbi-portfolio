@@ -33,7 +33,7 @@ This portfolio reflects my learning journey and development in Power BI. It serv
 ---
 
 ## 📬 Contact Me
-- 💼 Linkedin: (https://www.linkedin.com/in/nouf-alajmi?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+- 💼 LinkedIn: (https://www.linkedin.com/in/nouf-alajmi?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 - 📧 Email: noufmj110@gmail.com
 
 ---
