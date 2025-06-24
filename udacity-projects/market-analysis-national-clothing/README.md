@@ -20,7 +20,7 @@ To analyze sales data across various markets for a national clothing chain and c
 
 ## Output:
 ![Dashboard Overview](Customer%20and%20Income.png)
-![Dashboard Overview](Customer%20and%20Products.png
+![Dashboard Overview](Customer%20and%20Products.png)
 
 ---
 
