@@ -1,6 +1,6 @@
-# 🌟 Power BI Portfolio - Nouf Mohmmad
+# 🌟 Power BI Portfolio - Nouf Alajmi
 
-Hello! I'm Nouf Alajmi , an aspiring data analyst passionate about transforming raw data into clear, insightful dashboards that support decision-making.  
+Hello! I'm Nouf , an aspiring data analyst passionate about transforming raw data into clear, insightful dashboards that support decision-making.  
 This repository showcases my portfolio of data analysis projects built with **Microsoft Power BI**.
 
 ---
