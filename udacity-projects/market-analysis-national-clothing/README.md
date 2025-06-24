@@ -18,7 +18,13 @@ To analyze sales data across various markets for a national clothing chain and c
 
 ---
 
+## Output:
+![Dashboard Overview](Customer%20and%20Income.png)
+![Dashboard Overview](Customer%20and%20Products.png
+
+---
+
 ##  Files:
-- Power BI file: `Market-Analysis-National-Clothing.pbix`
+- Power BI file: `National Clothing Chain Project.pbix`
 
 ---
