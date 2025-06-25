@@ -33,7 +33,7 @@ To analyze sales performance, product categories, and customer behavior using in
 ---
 
 ## 📎 Files:
-- Power BI file: `Retail-Sales-Company.pbix`
+- Power BI file: `Retail-Sales.pbix`
 - Screenshots (The Output)
 
 ---
