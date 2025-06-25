@@ -20,7 +20,8 @@ Instead, they reflect my independent learning, exploration, and experimentation 
 
 ## 🗂️ Projects in This Folder
 
-- 📦 `Retail Sales Company` — An e-commerce dashboard analyzing product, customer, and sales performance  
+- 📦 `Retail Sales Company` — An e-commerce dashboard analyzing product, customer, and sales performance
+- 📦 `E-commerce Sales Analysis` — Interactive dashboard analyzing sales, products, and customers in an e-commerce business
 - [More training projects will be added soon...]
 
 ---
