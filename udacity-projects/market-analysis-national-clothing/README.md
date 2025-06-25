@@ -25,6 +25,6 @@ To analyze sales data across various markets for a national clothing chain and c
 ---
 
 ##  Files:
-- Power BI file: `National Clothing Chain Project.pbix`
+- Power BI file: `National-Clothing-Chain-Project.pbix`
 
 ---
