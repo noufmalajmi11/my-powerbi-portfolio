@@ -19,4 +19,4 @@ Design a suitable data model to view and analyze Seven Sages Brewing data using 
 
   
  # Files:
-  Power BI: `Nouf Alajmi-SSBC.pbix`
+  Power BI: `Nouf-Alajmi-SSBC.pbix`
