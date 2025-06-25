@@ -19,6 +19,19 @@ To analyze sales performance, product categories, and customer behavior using in
 
 ---
 
+## 📷 Report Screenshots
+
+### 🧾 Overview
+![Retail Overview](RetailSalesCompany.png)
+
+### 👥 Customer Analysis
+![Customer](Customer.png)
+
+### 📦 Product Analysis
+![Product](Product.png)
+
+---
+
 ## 📎 Files:
 - Power BI file: `Retail-Sales-Company.pbix`
 - Screenshots (The Output)
