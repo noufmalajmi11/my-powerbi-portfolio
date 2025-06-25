@@ -18,8 +18,21 @@ To create an interactive Power BI report that helps visualize key sales metrics 
 
 ---
 
+## 📷 Report Screenshots
+
+### 📊 General Performance
+![General Performance](GeneralPerformance.png)
+
+### 📦 Product & Category
+![Product & Category](Product&Category.png)
+
+### 👥 Customer Analysis
+![Customer Analysis](Customer.png)
+
+---
+
 ## 📎 Files:
-- Power BI file: `Ecommerce-Sales-Analysis.pbix`
+- Power BI file: `E-commerce-Project.pbix`
 - Dashboard screenshots 
 
 ---
